@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="440" height="88" viewBox="0 0 440 88" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="APIs REST — HTTP • JSON • Stateless">
+  <title>APIs REST</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F8F1FE"/><stop offset="1" stop-color="#E2D2F7"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C9A24D"/><stop offset=".5" stop-color="#F0D98C"/><stop offset="1" stop-color="#B8893A"/></linearGradient>
+    <path id="s" d="M0,-1 C0.12,-0.3 0.3,-0.12 1,0 C0.3,0.12 0.12,0.3 0,1 C-0.12,0.3 -0.3,0.12 -1,0 C-0.3,-0.12 -0.12,-0.3 0,-1Z"/>
+    <clipPath id="cl"><rect width="440" height="88" rx="16"/></clipPath>
+  </defs>
+  <rect width="440" height="88" rx="16" fill="url(#bg)"/>
+  <circle cx="400" cy="20" r="46" fill="#FFFFFF" fill-opacity=".35" clip-path="url(#cl)"/>
+  <rect x="2.5" y="2.5" width="435" height="83" rx="13.5" fill="none" stroke="url(#gold)" stroke-width="1.5"/>
+  <circle cx="46" cy="44" r="26" fill="#FFFFFF" stroke="url(#gold)" stroke-width="2.2"/>
+  <g transform="translate(46 44) scale(1.05) translate(-12 -12)"><path d="M9 3.5 C6 3.5 7.3 9.5 4.5 12 C7.3 14.5 6 20.5 9 20.5" stroke="#5B3E96" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M15 3.5 C18 3.5 16.7 9.5 19.5 12 C16.7 14.5 18 20.5 15 20.5" stroke="#5B3E96" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" fill="none"/><circle cx="12" cy="12" r="1.9" fill="#C9A24D"/></g>
+  <text x="90" y="42" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-weight="700" fill="#3F2A6B">APIs REST</text>
+  <text x="90" y="64" font-family="'Helvetica Neue', Arial, sans-serif" font-size="12.5" letter-spacing=".3"><tspan fill="#7A5CB8">HTTP</tspan><tspan fill="#C9A24D"> • </tspan><tspan fill="#7A5CB8">JSON</tspan><tspan fill="#C9A24D"> • </tspan><tspan fill="#7A5CB8">Stateless</tspan></text>
+  <use href="#s" transform="translate(418 18) scale(5)" fill="#C9A24D"/><use href="#s" transform="translate(425 70) scale(3.2)" fill="#F0D98C"/>
+</svg>
